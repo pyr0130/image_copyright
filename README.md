@@ -33,4 +33,4 @@
 ## Reports
 <!--* Upload or link (e.g. Google Drive files with share setting)-->
 <!--* Midterm: [Report](Reports/Midterm.pdf)-->
-Final: [Report](do/최종보고서.pdf), [Demo video](Reports/Demo.mp4)
+Final: [Report](doc/최종보고서.pdf), [Demo video](Reports/Demo.mp4)
