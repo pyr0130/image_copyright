@@ -18,8 +18,9 @@
 |:--------|:------------------------------------:|:-------------:|
 |0330|연구계획서 작성 및 최종제출||
 |0406|암호화 기법 연구 및 세부 구성 수정|[PDF](doc/0408.pdf)|
-|0413|AES 알고리즘 작성|[CODE](src/AES_cryptography/AES.ipynb)|
+|0413|AES 알고리즘 작성||
 |0420|워터마킹 논문 서칭||
+
 <!--## Results-->
 <!--* Main code, table, graph, comparison, ...-->
 <!--* Web link-->
@@ -29,7 +30,7 @@
 1) 불법으로 유출된 이미지를 확인해 우선 캡쳐된 이미지임을 확인하고, 그 후 이미지 내 삽입되어있는 핑거프린트를 추출해 유출자를 찾는다.
 2) 저작권 보호가 필요한 사이트/어플에서만 이 기능이 활성화되도록 유지하여 사용자가 디바이스 사용에 불편함이 없게 한다.
 
-<!--## Reports-->
+## Reports
 <!--* Upload or link (e.g. Google Drive files with share setting)-->
 <!--* Midterm: [Report](Reports/Midterm.pdf)-->
-<!--* Final: [Report](Reports/Final.pdf), [Demo video](Reports/Demo.mp4)-->
+Final: [Report](Reports/Final.pdf), [Demo video](Reports/Demo.mp4)
